@@ -1,7 +1,3 @@
-LOGIN DE LA APP (email & passord)
-username: admin@admin.com
-password: 12345678
---------------------------------------------------
 - Antes de correr la App tiene que estar corriendo XAMPP.
 - En el navegador abrir el localhost y aparecerá la pagina de XAMPP, arriba
   a la derecha aparece un link a phpMyAdmin, acceder ahí y crear una nueba
