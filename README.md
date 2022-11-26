@@ -12,4 +12,4 @@ password: 12345678
 - luego de hacer la migración desde la misma Terminal correr la App con:
 	php artisan serve
 
-Good luck!
+Buena suerte!
